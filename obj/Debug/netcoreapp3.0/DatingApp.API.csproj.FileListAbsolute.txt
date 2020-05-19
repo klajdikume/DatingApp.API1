@@ -69,8 +69,10 @@ C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcor
 C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\Data\UserSeedData.json
-C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\HP\Desktop\CoreA\DatingApp\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
