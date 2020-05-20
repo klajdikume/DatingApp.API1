@@ -44,6 +44,8 @@ namespace DatingApp.API
                 builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader();
             }));
 
+            services.Configure<CloudinarySettings>(Configuration.GetSection("CloudinarySettings"));
+
             services.AddAutoMapper(typeof(DatingRepository).Assembly); //knows in which assembly needs to go and look at
 
             services.AddControllers().AddNewtonsoftJson(opt =>
